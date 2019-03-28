@@ -1079,7 +1079,7 @@ void CancleAccount(vector<User_Info> (&a), int &olddeposit, int &newdeposit, int
 int main()
 {
     cout << "+----------------------------+" << endl;
-    cout << "+    Welcome to SnTz's bank   " << endl;
+    cout << "+      " << endl;
     cout << "+----------------------------+" << endl;
 
 	System_Login AA;
